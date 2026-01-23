@@ -1,12 +1,12 @@
 <h1 >Hi, I'm Nasır Sabır 👋</h1>
-<h4 >Passionate for learning AI & ML solutions and IOS development from Istanbul, Türkiye.</h4>
+<h4 >Passionate for learning AI & ML solutions from Frankfurt, Germany</h4>
 
 ---
-- 🔭 I’m currently working on **Violence detection in surveillance videos**
+- 🔭 I’m currently working on **Voice Assistant**
 
-- 🌱 I’m currently learning **Swift, Angular Framework and Machine Learning with Python**
+- 🌱 I’m currently learning **LLMs**
 
-- 📫 How to reach me **muhammednsrsbr@gmail.com**
+- 📫 How to reach me **nasirsabir.de@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
